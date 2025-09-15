@@ -31,5 +31,5 @@ INSTRUCCIONES PARA EJECUTAR LA APLICACION DE CLASIFICACIÓN DE IMAGENES
 
 8. Verá el resultado de las predicciones realizadas por los diferentes clasificadores
 
-NOTA: Dentro de Muestra hay un notebook con un intento temprano de haber realizado el ejercicio usando una red neuronal con pytorch.
+
 
